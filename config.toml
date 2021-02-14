@@ -1,0 +1,7 @@
+baseURL = "https://saulzh.github.io"
+languageCode = "en-us"
+title = "Site"
+theme = "terminal"
+[params]
+    fullWidthTheme = false
+    centerTheme = true
