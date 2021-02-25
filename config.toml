@@ -1,6 +1,6 @@
 baseURL = "https://saulzh.github.io"
 languageCode = "en-us"
-title = "Site"
+title = "Saulzh's Site"
 theme = "terminal"
 [params]
     fullWidthTheme = false
